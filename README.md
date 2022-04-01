@@ -1,16 +1,22 @@
-# payflow
+<h1 align="center">
+    <img alt="Logo" title="Logo" src="assets\images\logofull.png" />
+</h1>
 
-A new Flutter project.
+## :iphone: Mobile
 
-## Getting Started
+<p align="left">
+  <img alt="Splash" src="assets\screenshots\splash_screen.jpg" width="30%">
+  <img alt="Home" src="assets\screenshots\home_page.jpg" width="30%">
+  <img alt="Register" src="assets\screenshots\register_data.jpg" width="30%">
+</p>
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias
 
-A few resources to get you started if this is your first Flutter project:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://supabase.com/)
+- [google_sign_in](https://pub.dev/packages/google_sign_in)
+- [google_ml_kit](https://pub.dev/packages/google_ml_kit)
+- [image_picker](https://pub.dev/packages/image_picker)
